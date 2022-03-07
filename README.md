@@ -23,14 +23,14 @@
 
 # Deploy on heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheRiZoeL/RiZoeLSpam)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Neon-Ex-Yash/RiZoeLXSpam)
 
 
 # ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs
 [![Commands](https://img.shields.io/badge/RiZoeLXSpam-CMDS-blue)](https://t.me/Resourcez/4)
 
 # Support & Updates
-* [Channel](https://t.me/RiZoeLX)
+* [Channel](https://t.me/RiZoeLX) 
 * [Support Group](https://t.me/DNHxHELL)
 
 # Credits
